@@ -10,7 +10,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 
 
 ## 🛠 Skills
-Me especializo en varios lenguajes de programación, incluyendo HTML, CSS, JavaScript, PHP y Python. Además, también tengo experiencia utilizando herramientas como Node.js y Composer para desarrollar aplicaciones más eficientes y escalables.
+Me especializo en varios lenguajes de programación, incluyendo HTML, CSS, JavaScript, PHP, React y Python. Además, también tengo experiencia utilizando herramientas como Node.js y Composer para desarrollar aplicaciones más eficientes y escalables.
 
 
 
