@@ -38,7 +38,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 
 ## Mis lenguajes mas usados ⚡
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanElgueta)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanElgueta&locale=es&theme=radical&show_icons=true)]
 
 **Revisa los repositorios y no olvides dar una estrella.** 👇
 
