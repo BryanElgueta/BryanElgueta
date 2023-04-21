@@ -27,11 +27,12 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
 <a href="https://github.com/BryanElgueta">
-<img alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
-
-<br/>
-
+<img align="left "alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+  </a>
+  <a href="bryanelgueta1234@gmail.com">
+<img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
+  </a>
 
 ## Mis estadisticas :star:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
