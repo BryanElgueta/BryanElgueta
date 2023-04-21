@@ -26,7 +26,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 <a href="https://www.instagram.com/bryan_rblld">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
-<br>
+<br/>
 ## Mis estadisticas en github <img alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta)](https://github.com/anuraghazra/github-readme-stats)
 
