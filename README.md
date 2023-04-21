@@ -5,7 +5,7 @@ Soy un desarrollador apasionado que disfruta trabajando en proyectos de programa
 
 Me encanta colaborar en proyectos de código abierto y trabajar en equipo para lograr objetivos comunes. Si tienes alguna idea o proyecto en mente, no dudes en contactarme.
 
-## 🛠 Skills y tecnologias con las que me familiarizo
+## 🛠 Skills y tecnologias de preferencia
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
 <img src="https://img.shields.io/badge/-React-000000?style=flat&logo=react&logoColor=00c8ff">
@@ -26,9 +26,12 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 <a href="https://www.instagram.com/bryan_rblld">
   <img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/instagram.svg" />
 </a>
+<a href="https://github.com/BryanElgueta">
+<img alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+
 <br/>
 
 
-## Mis estadisticas en github <img alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
+## Mis estadisticas :star:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta)](https://github.com/anuraghazra/github-readme-stats)
 
