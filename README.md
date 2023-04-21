@@ -34,7 +34,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
   </a>
 
 ## Mis estadisticas :star:
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true)]
 
 **Revisa los repositorios y no olvides dar una estrella.** 👇
 
