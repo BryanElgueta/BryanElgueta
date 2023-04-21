@@ -36,6 +36,10 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 ## Mis estadisticas :star:
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true)]
 
+## Mis lenguajes mas usados ⚡
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanElgueta)]
+
 **Revisa los repositorios y no olvides dar una estrella.** 👇
 
 :star:[Mis repositorios](https://github.com/BryanElgueta?tab=repositories)  :star: 
