@@ -29,7 +29,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 <a href="https://github.com/BryanElgueta">
 <img align="left "alt="github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/github.svg" />
   </a>
-  <a href="bryanelgueta1234@gmail.com">
+  <a href="mailto:bryanelgueta1234@gmail.com">
 <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
   </a>
 
