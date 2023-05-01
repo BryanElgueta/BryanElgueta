@@ -33,7 +33,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 <img align="left" alt="gmail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
   </a>
 
-## Mis estadisticas :star:
+## :star: Mis estadisticas 
 ![Estadisticas de github](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true&locale=es)
 
 ## ✴️ Mis lenguajes mas usados 
