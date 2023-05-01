@@ -17,7 +17,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Java-F89820?style=flat&logo=java&logoColor=white"> <img src="https://img.shields.io/badge/-C%20&%20C++-659ad2?style=flat&logo=c%2B%2B&logoColor=ffffff"> <img src="https://img.shields.io/badge/-Python-black?style=flat&logo=python&logoColor=white"> 
 
-## Puedes contactarme a mis redes sociales💬
+## 🗨 Puedes contactarme a mis redes sociales
 
 <a href="https://www.linkedin.com/in/bryan-elgueta-2546b2237/">
   <img align="left" alt="Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -36,7 +36,7 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 ## Mis estadisticas :star:
 ![Estadisticas de github](https://github-readme-stats.vercel.app/api?username=BryanElgueta&theme=radical&show_icons=true&locale=es)
 
-## Mis lenguajes mas usados ⚡
+## ✴️ Mis lenguajes mas usados 
 
 ![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanElgueta&locale=es&theme=radical)
 
