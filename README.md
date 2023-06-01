@@ -45,4 +45,4 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 :star:[Mis repositorios](https://github.com/BryanElgueta?tab=repositories)  :star: 
 
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=22ogsam3u2nap27ghlhbibyei&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22ogsam3u2nap27ghlhbibyei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=22ogsam3u2nap27ghlhbibyei&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=22ogsam3u2nap27ghlhbibyei&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true)]
