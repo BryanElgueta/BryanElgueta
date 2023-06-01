@@ -43,6 +43,3 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 **Revisa los repositorios y no olvides dar una estrella.** 👇
 
 :star:[Mis repositorios](https://github.com/BryanElgueta?tab=repositories)  :star: 
-
-## Discord 
-![Mi Discord](https://discord-readme-badge.vercel.app/api?id=473200730619248651)
