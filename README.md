@@ -44,5 +44,5 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 
 :star:[Mis repositorios](https://github.com/BryanElgueta?tab=repositories)  :star: 
 
-## Estadisticas de spotify 
-![My Discord](https://discord-readme-badge.vercel.app/api?id=473200730619248651)
+## Discord 
+![Mi Discord](https://discord-readme-badge.vercel.app/api?id=473200730619248651)
