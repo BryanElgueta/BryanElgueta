@@ -44,5 +44,5 @@ Me encanta colaborar en proyectos de código abierto y trabajar en equipo para l
 
 :star:[Mis repositorios](https://github.com/BryanElgueta?tab=repositories)  :star: 
 
-
+## Estadisticas de spotify 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=22ogsam3u2nap27ghlhbibyei&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=true)](https://github.com/kittinan/spotify-github-profile)
